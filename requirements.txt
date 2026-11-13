@@ -1,0 +1,10 @@
+# Packages the notebook imports or installs. Versions were not recorded when it was run;
+# pin them (pip freeze) after a successful run to make it fully reproducible.
+beautifulsoup4
+googlemaps
+langchain
+langchain-anthropic
+langchain-core
+langgraph
+python-dotenv
+requests
